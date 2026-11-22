@@ -1,6 +1,6 @@
 cask "scn3" do
-  version "0.9.6"
-  sha256 "ecaba8bd0121e64b36d609638d84c964dd519a96f6d9652e81e281e328da2eea"
+  version "0.9.7"
+  sha256 "6a44f996c0706e29b1a6330bec4e34b4d3ff227c6b2bc4fe1b0097502f780acd"
 
   url "https://github.com/mnorrsken/scn3/releases/download/v#{version}/scn3-#{version}.dmg"
   name "scn3 Disk Sunburst"
